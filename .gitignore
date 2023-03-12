@@ -1,9 +1,0 @@
-.env
-venv
-images
-
-.idea
-.vscode
-__pycache__/
-*.py[cod]
-*.so
